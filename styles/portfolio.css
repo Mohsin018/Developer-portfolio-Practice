@@ -189,3 +189,76 @@ main{
     /* padding: 30px; */
 }
 
+
+/* Resume building */
+
+.cv{
+    margin-top: 130px;
+    
+}
+
+.cv-div-head{
+    display: flex;
+    gap: 24px;
+
+}
+
+.cv-title{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+.my-edu-col-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+}
+.edu-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+
+}
+
+.edu-info{
+
+    font-size: 20px;
+    font-weight: 800;
+    color: #757575;
+    
+}
+
+.edu-description{
+    font-size: 16px;
+    color: #757575;
+}
+
+.btn-div{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.submit-btn{
+    text-align: center;
+    background-color: #FD6E0A;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 35px;
+}
+
+
+
+/* footer section */
+
+.footer-main{
+    background-color: #fff8f3;
+    padding: 130px 230px;
+}
+
+
+
+
