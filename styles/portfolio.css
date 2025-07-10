@@ -22,6 +22,7 @@ nav {
     background-image: url(../images/backgroud-image.png), url(../images/header_bg.png);
     background-repeat: no-repeat;
     background-position: top left, bottom right;
+    background-color: #fff8f3;
 }
 
 /* for nav header style */
@@ -69,6 +70,10 @@ nav ul{
     border: none;
 }
 
+.background-design{
+    background-color: #fff8f3;
+}
+
 
 /* Banner Styles */
 .banner{
@@ -99,6 +104,44 @@ nav ul{
 }
 
 .banner-description{
+    max-width: 1000px;
+    
+} 
+
+/* Main body */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 130px;
     
 }
 
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+
+}
+
+.section-description{
+    font-size: 18px;
+    color: #757575;
+}
+
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+
+}
+
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item-title{
+    font-weight: bold;
+
+}
