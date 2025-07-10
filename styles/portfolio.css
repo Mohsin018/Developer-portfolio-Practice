@@ -114,6 +114,7 @@ main{
     max-width: 1140px;
     margin: 0 auto;
     margin-top: 130px;
+    margin-bottom: 130px;
     
 }
 
@@ -145,3 +146,46 @@ main{
     font-weight: bold;
 
 }
+
+/* what i do section start here */
+
+.w-i-d-sec{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.w-i-d-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    
+
+}
+
+.w-i-d-description{
+    font-size: 18px;
+    color: #757575;
+    padding: 0 40px;
+}
+
+/* skill section */
+
+.skill{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+    
+    
+}
+
+.skills{
+    /* margin: 24px; */
+    border-radius: 5px;
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    
+}
+.s-des{
+    /* padding: 30px; */
+}
+
